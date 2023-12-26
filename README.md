@@ -1,54 +1,13 @@
-# <Your Name>'s Developer Profile
+<h1 align="center">Hi 👋, I'm Pradeep sahu</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
-👋 Hi there! I'm <Your Name>, a passionate full-stack MERN developer. Welcome to my GitHub profile, where I share my projects and contributions to the developer community.
+<p align="left"> <a href="https://twitter.com/ig_toxicpradeep" target="blank"><img src="https://img.shields.io/twitter/follow/ig_toxicpradeep?logo=twitter&style=for-the-badge" alt="ig_toxicpradeep" /></a> </p>
 
-## 🔧 Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ig_toxicpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ig_toxicpradeep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pradeep sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep sahu" height="30" width="40" /></a>
+</p>
 
-- **Frontend:**
-  - HTML5, CSS3, JavaScript (ES6+)
-  - React.js with Redux for state management
-  - Responsive and mobile-first design
-
-- **Backend:**
-  - Node.js with Express.js
-  - MongoDB for database management
-  - RESTful API design and development
-
-- **Database:**
-  - MongoDB, Mongoose
-
-- **Version Control:**
-  - Git, GitHub
-
-- **Deployment:**
-  - Heroku, Netlify
-
-## 🚀 Projects
-
-### Project 1: [Project Name](Link to the project repository)
-
-Brief description of the project, its purpose, and technologies used. Include screenshots or gifs if possible.
-
-### Project 2: [Project Name](Link to the project repository)
-
-Brief description of the project, its purpose, and technologies used. Include screenshots or gifs if possible.
-
-## 🌱 Open Source Contributions
-
-- [Contribution 1](Link to the contribution repository)
-  - Brief description of the contribution and its impact.
-
-- [Contribution 2](Link to the contribution repository)
-  - Brief description of the contribution and its impact.
-
-## 📫 Contact
-
-- LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile)
-- Twitter: [@YourTwitterHandle](Link to your Twitter profile)
-- Email: your.email@example.com
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on exciting projects and connecting with fellow developers. If you have any questions, ideas, or just want to chat, feel free to reach out!
-
-Happy coding! 👩‍💻🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
